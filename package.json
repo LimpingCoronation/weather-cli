@@ -15,5 +15,9 @@
     "cli"
   ],
   "author": "Alex",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "dedent-js": "^1.0.1"
+  }
 }
